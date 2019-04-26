@@ -1,6 +1,5 @@
 # React Hooks Practice
-
-Description
+I created this project to practice React Hooks as well as setting up a .env file / using .env variables.
 
 ### Preview:
 ![Screenshot]()
