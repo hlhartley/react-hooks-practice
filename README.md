@@ -1,5 +1,5 @@
 # React Hooks Practice
-I created this project to practice React Hooks as well as try setting up a .env file / using environment variables.
+I created this project to practice React Hooks as well as set up a .env file.
 
 ### Preview:
 ![Screenshot](nasa-pic-of-the-day.png)
