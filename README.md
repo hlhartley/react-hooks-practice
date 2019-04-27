@@ -2,7 +2,7 @@
 I created this project to practice React Hooks as well as try setting up a .env file / using environment variables.
 
 ### Preview:
-![Screenshot]()
+![Screenshot](nasa-pic-of-the-day.png)
 
 ### Set-Up:
 **Front end**  
