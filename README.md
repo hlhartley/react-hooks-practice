@@ -1,5 +1,5 @@
 # React Hooks Practice
-I created this project to practice React Hooks as well as set up an .env file.
+I created this project to practice React Hooks as well as set up an .env file. The featured photo / background image changes every day based on NASA APoD's API.
 
 ### Preview:
 ![Screenshot](nasa-pic-of-the-day.png)
